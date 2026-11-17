@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#00796B</color>
+    <color name="primary_dark">#00594F</color>
+    <color name="accent">#00897B</color>
+    <color name="danger">#D32F2F</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="page">#F2F4F5</color>
+    <color name="divider">#1F000000</color>
+    <color name="badge_ref">#2E7D32</color>
+    <color name="badge_exact">#C62828</color>
+    <color name="badge_resized">#1565C0</color>
+    <color name="badge_edited">#6A1B9A</color>
+    <color name="badge_cropped">#B55400</color>
+    <color name="selected_tint">#59D32F2F</color>
+</resources>
